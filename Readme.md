@@ -62,6 +62,4 @@ This project was developed by Raeesa Asmal.
 
 If you'd like to contribute or report issues, feel free to submit a pull request or create an issue on the GitHub repository.
 
-###. Thank you for checking out the Shoe Inventory Management System!
-
-You can now easily replace the periods with spaces if needed!
+### Thank you for checking out the Shoe Inventory Management System!
